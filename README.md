@@ -2,6 +2,8 @@
 
 > A collection of ideas and principles to guide the goal of "Retire at 35".
 
+This is a collaborative effort. Issues and PRs are welcomed.
+
 ## Redefining Retirement
 
 Retirement is a state of mind, when you know you have saved enough resources to sustain the rest of your life.
