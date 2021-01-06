@@ -19,7 +19,7 @@ Working can be stressful, especially in the tech world where people are working 
 It is easy to lose focus in work and get drown in endless feature requests, bug and technical discussions. By having a goal to retire, you can restore a sense of purpose to the work and become more motivated.
 
 ### Productivity and fulfillment
-In addition to the produtivity you gained from being motivated, you can also expect to be more productive even after achieving the retirement status. Afterall, it is the thing you enjoy doing and there is no pressure on you to make money. This leads to more things being accomplished and a sense of fulfilment.
+In addition to the produtivity you gained from being motivated, you can also expect to be more productive even after achieving the retirement status. Afterall, you can do things you enjoy and there is no pressure on you to make money. This leads to more things being accomplished and a sense of fulfilment.
 
 ## Why 35?
 
