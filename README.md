@@ -31,11 +31,11 @@ This is a common question asked about the goal of "Retire at 35".
 
 The short answer: Without worrying about money and making the ends meet, it is really up to you to choose what to do.
 
-If you had something you are passionate about or interested in, but were not able to pursue due to lack the time, money or opportunity, retirement is a good starting point to revisit them.
+Do you have something you are passionate about or interested in, but weren't able to pursue due to lack the time, money or opportunity? Retirement is a good starting point to revisit them.
 
-If you are already working on your passion or interest, even better, you can continue doing what you are doing, just with an bonus peace of mind that you have the freedom to change if things don't go the way you liked.
+If you are already working on your passion or interest, that's even better. You can continue doing what you are doing, just with an bonus peace of mind that you have the freedom to change if things don't go the way you liked.
 
-If you are yet to discover your calling, don't worry, you can try out different things while you plan for your retirement. Afterall, planning and achieving retirement itself probably requires equal, if not more time than finding things to do after retirement.
+If you are yet to discover your calling, don't worry. You can try out different things while you plan for your retirement. Afterall, planning and achieving retirement itself probably requires equal, if not more time than finding things to do after retirement.
 
 One thing to note is that what you choose to do *after your retirement* might have an impact on your financial planning *before your retirement*.
 
@@ -107,6 +107,15 @@ Set a reasonable quota for things that you don't really need, but always get tem
 * Buy a new bag at most once twice a year
 
 Once a rationale rule has been set, it should be harder for impulse purchase to happen.
+
+
+**Spending - Calculate ROI for big-ticket items**
+
+Before you make a decision to purchase a big-ticket item such as a house or a car, calculate its Return on Investment (ROI).
+
+Consider the amount of money you can potentially save (or lose) by purchasing it. Of course we should also factor in the non-monetary benefits such having a peace of mind of not getting kicked out of your rented apartment by owning a house.
+
+There are plenty of guides on the Internet on calculating whether it is worth it to buy a house (vs rent) or buy a car (vs using other means of transportation). Use them as a good starting point to make your own calculations and judgement. You might be surprised to find that renting for the whole time might be cheaper than buying a house.
 
 ## Calculations
 
