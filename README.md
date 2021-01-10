@@ -4,9 +4,9 @@
 
 This is a collaborative effort. Issues and PRs are welcomed.
 
-## Redefining Retirement
+## Rethinking Retirement
 
-Retirement is a state of mind, when you know you have saved enough resources to sustain the rest of your life.
+Retirement is a state of mind, when you know you have saved enough money to sustain the rest of your life.
 
 Retirement enables a new way of life, where you can choose to do what you want to do, purely driven by passion and interest.
 
@@ -24,6 +24,35 @@ In addition to the produtivity you gained from being motivated, you can also exp
 ## Why 35?
 
 It is a magic number and it doesn't have to be 35. The idea is to retire (much) earlier than the society typically expects you to. An example age range would be 30 to 40.
+
+## What to do after retirement?
+
+This is a common question asked about the goal of "Retire at 35".
+
+The short answer: Without worrying about money and making the ends meet, it is really up to you to choose what to do.
+
+If you had something you are passionate about or interested in, but were not able to pursue due to lack the time, money or opportunity, retirement is a good starting point to revisit them.
+
+If you are already working on your passion or interest, even better, you can continue doing what you are doing, just with an bonus peace of mind that you have the freedom to change if things don't go the way you liked.
+
+If you are yet to discover your calling, don't worry, you can try out different things while you plan for your retirement. Afterall, planning and achieving retirement itself probably requires equal, if not more time than finding things to do after retirement.
+
+One thing to note is that what you choose to do *after your retirement* might have an impact on your financial planning *before your retirement*.
+
+Should you choose to do something that generates income, it would help with your overall financial status. On the flip side, if you want to pursue something that requires a lot of capital but produces little income (travelling around the world) or carries a significant investment risk (opening a cafe), you will need to factor that into your overall financial planning.
+
+Here are some ideas to get the ball rolling:
+
+* Art
+  * Learning and making [Origami](https://en.wikipedia.org/wiki/Origami)
+  * Learning and practicing freelance photography
+* Content creation
+  * Writing books about your past experiences or cool ideas
+  * Making videos or podcasts
+* Programming
+  * Build your own software products
+  * Becoming a full-time [open-source maintainer](https://github.com/readme/henry-zhu)
+* (feel free to add more via PR)
 
 ## How is retiring at 35 possible?
 
