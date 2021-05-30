@@ -2,17 +2,11 @@
 
 > A collection of ideas and principles to guide the goal of "Retire at 35".
 
-This is a collaborative effort. Issues and PRs are welcomed.
-
-## Rethinking Retirement
-
 Retirement is a state of mind, when you know you have saved enough money to sustain the rest of your life.
 
 Retirement enables a new way of life, where you can choose to do what you want to do, purely driven by passion and interest.
 
-## Why?
-
-### Why retire early?
+## Why retire early?
 
 **Recover from long-term stress and burn-outs**
 
@@ -26,9 +20,9 @@ It is easy to lose focus in work and get drown in endless feature requests, bug 
 
 In addition to the produtivity you gained from being motivated, you can also expect to be more productive even after achieving the retirement status. Afterall, you can do things you enjoy and there is no pressure on you to make money. This leads to more things being accomplished and a sense of fulfilment.
 
-### Why 35?
+## Why 35
 
-It is a magic number and it doesn't have to be 35. The idea is to retire (much) earlier than the society typically expects you to. An example age range would be 30 to 40.
+35 is just a sample target. The idea is to retire (much) earlier than the society typically expects you to.
 
 ## What to do after retirement?
 
@@ -58,7 +52,7 @@ Here are some ideas to get the ball rolling:
   * Build your own software products
   * Becoming a full-time [open-source maintainer](https://github.com/readme/henry-zhu)
 
-## How is retiring at 35 possible?
+## How to achieve retirement at 35?
 
 The formula is simple: `Money += Income - Spending`.
 
@@ -133,7 +127,11 @@ Note that I used a variation of the [4 percent rule](https://www.investopedia.co
 
 ## Additional resources
 
-Videos
+**Videos**
 
 - [Retiring Early On $870K In Arizona | Millennial Money](https://www.youtube.com/watch?v=S3krNI31pYA)
   - [Millionaire Reacts: Retiring Early On $870K In Arizona | Millennial Money](https://www.youtube.com/watch?v=y3rkjDJtTAw)
+
+---
+
+This is a collaborative effort. Issues and PRs are welcomed.
