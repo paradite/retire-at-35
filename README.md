@@ -10,18 +10,23 @@ Retirement is a state of mind, when you know you have saved enough money to sust
 
 Retirement enables a new way of life, where you can choose to do what you want to do, purely driven by passion and interest.
 
-## Why retire
+## Why?
 
-### Recover from long-term stress and burn-outs
+### Why retire early?
+
+**Recover from long-term stress and burn-outs**
+
 Working can be stressful, especially in the tech world where people are working long hours with intensive brain usage. This leads to stress and burn-outs and is not healthy in long-term. Retiring early provides an escape hatch from that.
 
-### Sense of purpose and motivation
+**Sense of purpose and motivation**
+
 It is easy to lose focus in work and get drown in endless feature requests, bug and technical discussions. By having a goal to retire, you can restore a sense of purpose to the work and become more motivated.
 
-### Productivity and fulfillment
+**Productivity and fulfillment**
+
 In addition to the produtivity you gained from being motivated, you can also expect to be more productive even after achieving the retirement status. Afterall, you can do things you enjoy and there is no pressure on you to make money. This leads to more things being accomplished and a sense of fulfilment.
 
-## Why 35?
+### Why 35?
 
 It is a magic number and it doesn't have to be 35. The idea is to retire (much) earlier than the society typically expects you to. An example age range would be 30 to 40.
 
@@ -52,7 +57,6 @@ Here are some ideas to get the ball rolling:
 * Programming
   * Build your own software products
   * Becoming a full-time [open-source maintainer](https://github.com/readme/henry-zhu)
-* (feel free to add more via PR)
 
 ## How is retiring at 35 possible?
 
@@ -60,7 +64,7 @@ The formula is simple: `Money += Income - Spending`.
 
 Hence the principles to retiring early are **earning enough income** and **spending wisely**. Some **calculations** are also required to get the exact numbers on a few variables.
 
-## Earning enough income
+### Earning enough income
 
 Income refers to the money you get from your main job and side jobs (active income), and from your investment portfolio (passive income).
 
@@ -94,7 +98,7 @@ Here is a list of commonly used investment options:
 * ETFs
 * Stocks
 
-## Spending wisely
+### Spending wisely
 
 Spending is just spending. Anything in between income and spending is saved and work towards saving enough money for early retirement.
 
@@ -126,3 +130,10 @@ Here is a sample calculation with a few basic parameters (age, house purchase, y
 https://docs.google.com/spreadsheets/d/11DFGWGJ8_j8lp3PbbhnJQkU1Ora75-9-2VOVmBkN2PM/edit?usp=sharing
 
 Note that I used a variation of the [4 percent rule](https://www.investopedia.com/terms/f/four-percent-rule.asp) to calculate how much I need to save because I have access to a separate mandatory retirement scheme in Singapore called CPF which should help cover my expense after the official retirement age around 55 to 70.
+
+## Additional resources
+
+Videos
+
+- [Retiring Early On $870K In Arizona | Millennial Money](https://www.youtube.com/watch?v=S3krNI31pYA)
+  - [Millionaire Reacts: Retiring Early On $870K In Arizona | Millennial Money](https://www.youtube.com/watch?v=y3rkjDJtTAw)
