@@ -131,6 +131,8 @@ Note that I used a variation of the [4 percent rule](https://www.investopedia.co
 
 - [Retiring Early On $870K In Arizona | Millennial Money](https://www.youtube.com/watch?v=S3krNI31pYA)
   - [Millionaire Reacts: Retiring Early On $870K In Arizona | Millennial Money](https://www.youtube.com/watch?v=y3rkjDJtTAw)
+- [The Truth About FIRE - Is Early Retirement Actually Possible?](https://www.youtube.com/watch?v=SEItn9Csitg)
+
 
 ---
 
