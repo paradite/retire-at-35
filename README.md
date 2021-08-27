@@ -121,13 +121,10 @@ There are plenty of guides on the Internet on calculating whether it is worth it
 
 ## Calculations
 
-To do a realistic check on whether we can retire at 35, we need to do some calculations on our finance status and projections. These calculations may not be accurate or miss certain factors, but they do give a sense of what the road and goals ahead of us.
 
-Here is a sample calculation with a few basic parameters (age, house purchase, yields) that you can use as a starting point:
+Download the Retire 35 app to calculate whether you are on track for your retirement goal.
 
-https://docs.google.com/spreadsheets/d/11DFGWGJ8_j8lp3PbbhnJQkU1Ora75-9-2VOVmBkN2PM/edit?usp=sharing
-
-Note that I used a variation of the [4 percent rule](https://www.investopedia.com/terms/f/four-percent-rule.asp) to calculate how much I need to save because I have access to a separate mandatory retirement scheme in Singapore called CPF which should help cover my expense after the official retirement age around 55 to 70.
+[![google-play-badge](https://user-images.githubusercontent.com/1209810/131145857-23e060c6-a7b1-4f30-9b43-94b0b23ee64f.png)](https://play.google.com/store/apps/details?id=com.paradite.retire35) [![download-on-the-app-store-badge](https://user-images.githubusercontent.com/1209810/131145866-72a461c5-3f6d-4895-af02-4182478a68b4.png)](https://apps.apple.com/us/app/retire-35/id1582600811)
 
 ## Additional resources
 
