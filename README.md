@@ -119,16 +119,9 @@ Consider the amount of money you can potentially save (or lose) by purchasing it
 
 There are plenty of guides on the Internet on calculating whether it is worth it to buy a house (vs rent) or buy a car (vs using other means of transportation). Use them as a good starting point to make your own calculations and judgement. You might be surprised to find that renting for the whole time might be cheaper than buying a house.
 
-## Calculations
+## Planning, Calculations and Additional resources
 
-
-Download the Retire 35 app to calculate whether you are on track for your retirement goal.
-
-[![google-play-badge](https://user-images.githubusercontent.com/1209810/131145857-23e060c6-a7b1-4f30-9b43-94b0b23ee64f.png)](https://play.google.com/store/apps/details?id=com.paradite.retire35) [![download-on-the-app-store-badge](https://user-images.githubusercontent.com/1209810/131145866-72a461c5-3f6d-4895-af02-4182478a68b4.png)](https://apps.apple.com/us/app/retire-35/id1582600811)
-
-## Additional resources
-
-Download the Retire 35 app for more curated resources on early retirement.
+Download the Retire 35 app on Android or iOS to start planning and enjoy curated resources on early retirement.
 
 [![google-play-badge](https://user-images.githubusercontent.com/1209810/131145857-23e060c6-a7b1-4f30-9b43-94b0b23ee64f.png)](https://play.google.com/store/apps/details?id=com.paradite.retire35) [![download-on-the-app-store-badge](https://user-images.githubusercontent.com/1209810/131145866-72a461c5-3f6d-4895-af02-4182478a68b4.png)](https://apps.apple.com/us/app/retire-35/id1582600811)
 
