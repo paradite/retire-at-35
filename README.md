@@ -1,6 +1,6 @@
-🎉🎉🎉 Retire 35 app is now available on Android and iOS!
-
 [![google-play-badge](https://user-images.githubusercontent.com/1209810/131145857-23e060c6-a7b1-4f30-9b43-94b0b23ee64f.png)](https://play.google.com/store/apps/details?id=com.paradite.retire35) [![download-on-the-app-store-badge](https://user-images.githubusercontent.com/1209810/131145866-72a461c5-3f6d-4895-af02-4182478a68b4.png)](https://apps.apple.com/us/app/retire-35/id1582600811)
+
+🎉🎉🎉 Retire 35 app is now available on Android and iOS! Download from the links above.
 
 # Retire at 35
 
