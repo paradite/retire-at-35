@@ -4,8 +4,6 @@
 
 # Retire at 35
 
-> A collection of ideas and principles to guide the goal of "Retire at 35".
-
 Retirement is a state of mind, when you know you have saved enough money to sustain the rest of your life.
 
 Retirement enables a new way of life, where you can choose to do what you want to do, purely driven by passion and interest.
