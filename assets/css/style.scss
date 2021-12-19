@@ -32,3 +32,33 @@ header {
 #main-content h5 {
   font-family: 'Cairo', 'Helvetica Neue', Helvetica, Arial, serif;
 }
+
+#main-content h6 {
+  font-family: 'Cairo', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+@media only screen and (max-width: 767px) {
+  #main-content h1 {
+    text-indent: 0;
+  }
+
+  #main-content h2 {
+    text-indent: 0;
+  }
+
+  #main-content h3 {
+    text-indent: 0;
+  }
+
+  #main-content h4 {
+    text-indent: 0;
+  }
+
+  #main-content h5 {
+    text-indent: 0;
+  }
+
+  #main-content h6 {
+    text-indent: 0;
+  }
+}
