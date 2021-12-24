@@ -128,3 +128,5 @@ Download the Retire 35 app on Android or iOS to start planning and enjoy curated
 ---
 
 This is a collaborative effort. Issues and PRs are welcomed on the [GitHub repo](https://github.com/paradite/retire-at-35).
+
+[Hacker News thread](https://news.ycombinator.com/item?id=29670581)
