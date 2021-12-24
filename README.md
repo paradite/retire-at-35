@@ -60,6 +60,8 @@ The formula is simple: `Money += Income - Spending`.
 
 Hence the principles to retiring early are **earning enough income** and **spending wisely**. Some **calculations** are also required to get the exact numbers on a few variables.
 
+You should not have to abandon your hobbies just to retire earlier. That's going against the very goal of early retirement. In fact, you should actively seek out hobbies while planning for early retirement.
+
 ### Earning enough income
 
 Income refers to the money you get from your main job and side jobs (active income), and from your investment portfolio (passive income).
@@ -125,4 +127,4 @@ Download the Retire 35 app on Android or iOS to start planning and enjoy curated
 
 ---
 
-This is a collaborative effort. Issues and PRs are welcomed.
+This is a collaborative effort. Issues and PRs are welcomed on the [GitHub repo](https://github.com/paradite/retire-at-35).
