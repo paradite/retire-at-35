@@ -10,11 +10,11 @@
 
 With retirement, you know you have saved enough money to sustain the rest of your life.
 
-**Retirement enables a new way of life and work.**
+**Retirement enables a new way of life.**
 
-Retirement does not mean stop working. Instead, work becomes detached from making money.
+Retirement does not mean stop working. It simply means working is no longer about making money. Rather, it is about pursuing passion and interest.
 
-You can choose what to work on, purely driven by passion and interest. This makes retirement meaningful, fulfilling and hopefully even more productive.
+This makes retirement meaningful, fulfilling and hopefully even more productive.
 
 ## Why retire early?
 
