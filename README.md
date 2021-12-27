@@ -4,9 +4,17 @@
 
 # Retire at 35
 
-Retirement is a state of mind, when you know you have saved enough money to sustain the rest of your life.
+## Key principles
 
-Retirement enables a new way of life, where you can choose to do what you want to do, purely driven by passion and interest.
+**Retirement is a state of mind.**
+
+With retirement, you know you have saved enough money to sustain the rest of your life.
+
+**Retirement enables a new way of life and work.**
+
+Retirement does not mean stop working. Instead, work becomes detached from making money.
+
+You can choose what to work on, purely driven by passion and interest. This makes retirement meaningful, fulfilling and hopefully even more productive.
 
 ## Why retire early?
 
@@ -22,7 +30,7 @@ It is easy to lose focus in work and get drown in endless feature requests, bug 
 
 In addition to the produtivity you gained from being motivated, you can also expect to be more productive even after achieving the retirement status. Afterall, you can do things you enjoy and there is no pressure on you to make money. This leads to more things being accomplished and a sense of fulfilment.
 
-## Why 35
+## Why 35?
 
 35 is just a sample target. The idea is to retire (much) earlier than the society typically expects you to.
 
