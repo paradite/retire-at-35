@@ -1,6 +1,15 @@
-[![google-play-badge](https://user-images.githubusercontent.com/1209810/131145857-23e060c6-a7b1-4f30-9b43-94b0b23ee64f.png)](https://play.google.com/store/apps/details?id=com.paradite.retire35) [![download-on-the-app-store-badge](https://user-images.githubusercontent.com/1209810/131145866-72a461c5-3f6d-4895-af02-4182478a68b4.png)](https://apps.apple.com/us/app/retire-35/id1582600811)
+🎉🎉🎉 Retire 35 app is now available on Android and iOS! 
 
-🎉🎉🎉 Retire 35 app is now available on Android and iOS! Download from the links above.
+Ever wondered how much money do you need to retire early (FIRE)?
+
+You can now calculate the amount of money you need to retire early with **Retire 35** mobile app.
+
+![Screenshot 1](https://raw.githubusercontent.com/paradite/retire-at-35/main/assets/screenshots/1.png)
+![Screenshot 2](https://raw.githubusercontent.com/paradite/retire-at-35/main/assets/screenshots/2.png)
+
+Download the **Retire 35** mobile app from the links below:
+
+[![google-play-badge](https://user-images.githubusercontent.com/1209810/131145857-23e060c6-a7b1-4f30-9b43-94b0b23ee64f.png)](https://play.google.com/store/apps/details?id=com.paradite.retire35) [![download-on-the-app-store-badge](https://user-images.githubusercontent.com/1209810/131145866-72a461c5-3f6d-4895-af02-4182478a68b4.png)](https://apps.apple.com/us/app/retire-35/id1582600811)
 
 # Retire at 35
 
@@ -129,9 +138,13 @@ There are plenty of guides on the Internet on calculating whether it is worth it
 
 ## Planning, Calculations and Additional resources
 
-Download the Retire 35 app on Android or iOS to start planning and enjoy curated resources on early retirement.
+How much money do you need to retire early?
+
+Download the Retire 35 app on Android or iOS to calculate and start planning!
 
 [![google-play-badge](https://user-images.githubusercontent.com/1209810/131145857-23e060c6-a7b1-4f30-9b43-94b0b23ee64f.png)](https://play.google.com/store/apps/details?id=com.paradite.retire35) [![download-on-the-app-store-badge](https://user-images.githubusercontent.com/1209810/131145866-72a461c5-3f6d-4895-af02-4182478a68b4.png)](https://apps.apple.com/us/app/retire-35/id1582600811)
+
+Also enjoy curated resources on early retirement bundled within the app.
 
 ---
 
