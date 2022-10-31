@@ -4,7 +4,7 @@ Ever wondered how much money do you need to retire early (FIRE)?
 
 You can now calculate the amount of money you need to retire early with **Retire 35** mobile app.
 
-<p align="middle">
+<p float="left">
   <img src="https://raw.githubusercontent.com/paradite/retire-at-35/main/screenshots/1.png" alt="Screenshot 1" width="300"/>
   <img src="https://raw.githubusercontent.com/paradite/retire-at-35/main/screenshots/2.png" alt="Screenshot 2" width="300"/>
 </p>
